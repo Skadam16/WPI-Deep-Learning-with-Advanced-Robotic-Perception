@@ -13,4 +13,12 @@ I tried changing the batch size for the First neural network code and could
 conclude that a smaller batch size could also give fairly good results as the
 neural network doesnt have complicated multi-layer architecture and the dataset is not extensive.
 
+3.Performance
+
+-automatic split-0.7717
+
+-manual split-0.7559
+
+-manual cross validation-75.52% (+/- 2.92%)
+
 Solution screenshots are attached.
