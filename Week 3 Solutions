@@ -1,1 +1,14 @@
+1.Neural Network with Keras
 
+- Cross Validation Accuracy- 0.7422
+
+2. Scikit Learn Test
+
+- sklearn cross validation- 0.6601
+
+- sklearn grid search parameters- 0.67317
+
+
+I tried changing the batch size for the First neural network code and could 
+conclude that a smaller batch size could also give fairly good results as the
+neural network doesnt have complicated multi-layer architecture and the dataset is not extensive.
