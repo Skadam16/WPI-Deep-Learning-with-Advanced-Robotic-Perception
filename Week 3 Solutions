@@ -12,3 +12,5 @@
 I tried changing the batch size for the First neural network code and could 
 conclude that a smaller batch size could also give fairly good results as the
 neural network doesnt have complicated multi-layer architecture and the dataset is not extensive.
+
+Solution screenshots are attached.
